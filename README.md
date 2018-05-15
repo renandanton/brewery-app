@@ -25,7 +25,7 @@ Clone the repository project:
 Enter in project directory,
 
 ``` bash
-    $ cd brewery
+    $ cd brewery-app
 ```
 
 And then double click on index.html simple like that.
